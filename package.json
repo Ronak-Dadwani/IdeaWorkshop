@@ -1,0 +1,14 @@
+{
+  "name": "ideaworkshop",
+  "version": "1.0.0",
+  "description": "This is the Idea App workshop conducted for the PWSKILLS students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronak dadwani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
